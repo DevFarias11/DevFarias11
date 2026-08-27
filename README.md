@@ -28,7 +28,7 @@ role: Software Engineering Student
 location: Brazil 🇧🇷
 education: Computer Science / Software Engineering
 focus: Systems Programming, AI & Machine Learning
-languages: Portuguese (native) · English (learning)
+languages: Portuguese (native) · English (advanced and certified)
 ```
 
 > *I believe great software starts with great fundamentals. I'm building a strong foundation in C, data structures, and algorithms — while exploring AI and machine learning on the side. Every day I write code, every day I get better.*
