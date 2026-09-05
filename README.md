@@ -4,8 +4,8 @@
 
 <div align="center">
 
-  <!-- Wave banner animado com gradiente ciano escuro -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30&height=220&section=header&text=Rafael%20Farias&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%7C%20Java%20and%20Backend%20%7C%20AI%20Enthusiast&descFontSize=16&descAlignY=56&descAlign=50" width="100%"/>
+  <!-- Wave banner animado com gradiente azul / ciano -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052d4,100:00d4ff&height=220&section=header&text=Rafael%20Farias&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%7C%20Java%20and%20Backend%20%7C%20AI%20Enthusiast&descFontSize=16&descAlignY=56&descAlign=50" width="100%"/>
 
   <br/><br/>
 
@@ -241,6 +241,6 @@ Discover my academic projects, algorithm challenges, data structure implementati
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0052d4,100:00d4ff&height=120&section=footer" width="100%"/>
 
 </div>
