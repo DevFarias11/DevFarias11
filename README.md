@@ -167,16 +167,6 @@ Discover my academic projects, algorithm challenges, data structure implementati
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ACHIEVEMENTS & TROPHIES                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevFarias11&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -184,9 +174,9 @@ Discover my academic projects, algorithm challenges, data structure implementati
 
 <div align="center">
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=DevFarias11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=DevFarias11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFarias11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevFarias11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 
 </div>
 
@@ -198,25 +188,9 @@ Discover my academic projects, algorithm challenges, data structure implementati
 
 <br/>
 
-<!-- Gráfico de Contribuições com Linhas em Ciano -->
+<!-- Gráfico de Contribuições Ativo e Testado -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevFarias11&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     🐍 SNAKE EATING CONTRIBUTIONS                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevFarias11/DevFarias11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevFarias11/DevFarias11/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/DevFarias11/DevFarias11/output/github-contribution-grid-snake.svg" width="95%">
-  </picture>
-
+  <img src="https://activity-graph.vercel.app/graph?username=DevFarias11&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
