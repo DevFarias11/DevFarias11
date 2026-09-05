@@ -1,174 +1,112 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          HEADER / BANNER                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
+  <!-- Banner Animado de Cabeçalho -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30&height=220&section=header&text=Rafael%20Farias&fontSize=42&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Engenharia%20de%20Software%20%7C%20Java%20%26%20Backend%20%7C%20Inteligência%20Artificial&descAlignY=60&descAlign=50" width="100%"/>
 
-  <!-- Wave banner animado com gradiente -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Rafael%20Farias&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20•%20Low-Level%20Enthusiast%20•%20Problem%20Solver&descFontSize=16&descAlignY=56&descAlign=50" width="100%"/>
-
-  <!-- Typing SVG animado — efeito de digitação -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+solid+foundations+in+C+and+Java;Exploring+AI+%26+Machine+Learning;Turning+coffee+into+clean+code+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <!-- Animação de Digitação Dinâmica -->
+  <a href="https://github.com/DevFarias11">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Java+%26+Backend+Developer+%E2%98%95;Estudante+de+Engenharia+de+Software+%40+UniEVANG%C3%89LICA+%F0%9F%9A%80;English+Level+C1+%7C+TOEIC+Certified+%F0%9F%8C%8E;Dev+Environments%3A+IntelliJ+IDEA+%26+VS+Code+%F0%9F%92%BB;Criador+do+Projeto+OrenAI+%E2%9B%8F%EF%B8%8F;Monitor+de+L%C3%B3gica+Formal+%26+Estruturas+de+Dados" alt="Typing SVG" />
   </a>
 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rafael-farias-lacerda001" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:rafael.lacerda.dev01@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/DevFarias11">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/English-Level%20C1%20(TOEIC%20690)-059669?style=for-the-badge&logo=duolingo&logoColor=white" alt="English C1" />
+  </p>
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           ABOUT ME                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+### 👨‍💻 Sobre Mim
 
-## 🧑‍💻 About me
+- 🎓 Graduando em **Engenharia de Software** pela **UniEVANGÉLICA** (2025 – 2029).
+- ☕ Forte foco em desenvolvimento de software com **Java**, aplicando Programação Orientada a Objetos (POO), arquitetura modular e boas práticas de código.
+- 💻 Ambientes de desenvolvimento favoritos e dominados no dia a dia: **IntelliJ IDEA** e **Visual Studio Code**.
+- 🌐 Fluência e proficiência em **Inglês Nível C1**, certificado com **TOEIC 690**.
+- 🧠 Monitor Acadêmico de **Lógica e Teoria dos Conjuntos**, com forte base em estruturas de dados e pensamento analítico.
+- 🤖 Pesquisador e desenvolvedor no ecossistema de **Inteligência Artificial**, visão computacional e arquiteturas multiagente.
 
-```yaml
-name: Rafael Farias De Lacerda
-role: Software Engineering Student
-location: Brazil 🇧🇷
-education: Computer Science / Software Engineering
-focus: Systems Programming, AI & Machine Learning
-languages: Portuguese (native) · English (advanced and certified)
-```
+---
 
-> *I believe great software starts with great fundamentals. I'm building a strong foundation in C, data structures, and algorithms — while exploring AI and machine learning on the side. Every day I write code, every day I get better.*
+### 🏆 Idiomas & Certificações
 
-<br/>
+| Badge | Detalhes | Instituição / Validador |
+| :---: | :--- | :--- |
+| ![English C1](https://img.shields.io/badge/English-N%C3%ADvel%20C1%20Avan%C3%A7ado-blue?style=flat-square&logo=googletranslate&logoColor=white) | **Inglês Nível C1** — TOEIC Score: **690** | Park Education / ETS |
+| ![Scrum Certified](https://img.shields.io/badge/SCRUM-Fundamentals%20Certified%20(SFC)-brightgreen?style=flat-square&logo=scrumalliance&logoColor=white) | **SCRUM Fundamentals Certified (SFC)** | VMEdu / SCRUMstudy |
+| ![Azure DP-100](https://img.shields.io/badge/Microsoft-Azure%20DP--100%20(In%20Progress)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Azure Data Scientist Associate** *(Em andamento)* | Microsoft |
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
-## 🛠️ Tech Stack
+### 🛠️ Tecnologias & Ferramentas Principais
 
 <div align="center">
+  <p><strong>Linguagens & Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,postgres,mysql&theme=dark" alt="Linguagens Principais" />
 
-#### Languages & Core
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <br/><br/>
 
-#### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  <p><strong>IDEs & Ambientes de Desenvolvimento</strong></p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,linux,git,github,postman&theme=dark" alt="IDEs e Ferramentas" />
 
-#### Currently Learning
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  <br/><br/>
 
+  <p><strong>Inteligência Artificial & Machine Learning</strong></p>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="IA e Frameworks" />
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+### 🚀 Projeto em Destaque: **OrenAI**
 
-## 🚀 Featured Projects
+> **Sistema de IA Multiagente com Explicabilidade (XAI) para Geologia e Mineração**
+
+- 🔬 **Deep Learning & Computer Vision:** Treinamento de redes neurais com TensorFlow e Keras para identificação e classificação automatizada de padrões em amostras geológicas.
+- 🤖 **Arquitetura Multiagente e XAI:** Fluxos decisórios colaborativos baseados em transparência (*Explainable AI*) e abordagem *Human-in-the-Loop*.
+- 📈 **Auditoria e Viabilidade Orçamentária:** Algoritmos preditivos com rastreamento integral das decisões tomadas pelos agentes.
+
+---
+
+### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DevFarias11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats de DevFarias11" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFarias11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Linguagens mais utilizadas" />
+      </td>
+    </tr>
+  </table>
 
-<table>
-<tr>
-<td width="50%">
+  <br/>
 
-### 📚 C Programming
-[![C-Programming](https://img.shields.io/badge/📂_Repository-C_Programming-00599C?style=for-the-badge)](https://github.com/DevFarias11/C-programming)
-
-Structured exercises covering **control flow**, **functions**, **pointers**, and **data structures** in C — my journey mastering low-level programming from the ground up.
-
-`C` `Algorithms` `Problem Solving`
-
-</td>
-<td width="50%">
-
-### 🔮 Coming Soon
-[![Coming-Soon](https://img.shields.io/badge/📂_Next_Project-Stay_Tuned-161b22?style=for-the-badge)](https://github.com/DevFarias11)
-
-More projects on the way — from **Java OOP** to **AI experiments**. Follow me to stay updated!
-
-`Java` `AI` `Machine Learning`
-
-</td>
-</tr>
-</table>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevFarias11&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak de DevFarias11" />
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
+### 🐍 Snake Contribution Graph
 
 <div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevFarias11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFarias11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevFarias11/DevFarias11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevFarias11/DevFarias11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevFarias11/DevFarias11/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevFarias11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Gráfico de contribuições -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevFarias11&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          CONNECT                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🌐 Connect with me
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/rafael-farias-lacerda001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:rafael.lacerda.dev01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         VISITOR COUNTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=DevFarias11&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                              FOOTER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=120&section=footer" width="100%"/>
-
+  <!-- Banner Animado de Rodapé -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30&height=100&section=footer" width="100%"/>
 </div>
